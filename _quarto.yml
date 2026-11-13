@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Count Regression Lab: Poisson, Negative Binomial, and Probing Interactions"
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,10 @@
+---
+title: "Count Regression Lab: Poisson, Negative Binomial, and Probing Interactions"
+author: "Payton Hayes"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
